@@ -1,0 +1,7 @@
+For fileAaronPressman-test.txt
+AaronPressman - score of:0.03006681069576418
+AlanCrosby - score of:0.03705014010968757
+AlexanderSmith - score of:0.039911249631104456
+=====================
+
+Lower score is better
